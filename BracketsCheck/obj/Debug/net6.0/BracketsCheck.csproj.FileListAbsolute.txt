@@ -1,0 +1,15 @@
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\bin\Debug\net6.0\BracketsCheck.exe
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\bin\Debug\net6.0\BracketsCheck.deps.json
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\bin\Debug\net6.0\BracketsCheck.runtimeconfig.json
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\bin\Debug\net6.0\BracketsCheck.dll
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\bin\Debug\net6.0\BracketsCheck.pdb
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.csproj.AssemblyReference.cache
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.AssemblyInfoInputs.cache
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.AssemblyInfo.cs
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.csproj.CoreCompileInputs.cache
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.dll
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\refint\BracketsCheck.dll
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.pdb
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\BracketsCheck.genruntimeconfig.cache
+C:\Users\Саша\source\repos\BracketsCheck\BracketsCheck\obj\Debug\net6.0\ref\BracketsCheck.dll
